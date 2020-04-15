@@ -1,0 +1,13 @@
+.try-style {
+    width: 35vw;
+    height: 20vh;
+    border: 2px solid green;
+    margin: 0 auto;
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: 3fr 0fr 0fr 1fr;
+    grid-gap: 20px;
+    color: red;
+    font-size: 3rem;
+    text-align: center;
+  }
